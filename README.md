@@ -1,4 +1,4 @@
-<h1 align="center">Hi there!, I'm Erin</h1>
+<h1 align="center">Hi there! , I'm Erin</h1>
 <h3 align="center">I am a Platform-Oriented Backend Engineer</h3>
 
 - 🔭 I’m currently working on [myTutor](https://github.com/erinsebast/myTutor)
